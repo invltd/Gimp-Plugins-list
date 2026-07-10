@@ -8,8 +8,8 @@ Note: Some plugins are outright ignored on purpose Like some image generations, 
 
 #### ⚠️ IMPORTANT: Some PLUGINS/SCRIPT/ETC might be Hard to install/understand for those you'll see a "INFO:" Link to help
 #### ⚠️ DISCLAMER: You are using this at your own risk all softwares ARE NOT mine and I only provide link if you see a 🚩 that means this are new independent developer, Risks are:
- - Higer Chance of abadonment (happens with known projects too Just higer)
- - Higer Chance of malware (happens with known projects too Just higer)
+ - Higher Chance of abadonment (happens with known projects too Just higher)
+ - Higher Chance of malware (happens with known projects too Just higher)
 
 Emoji |	Pattern Represented |	Technical Significance
 |---|---|---|
